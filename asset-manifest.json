@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nifti/static/css/main.64f88cd4.css",
+    "main.js": "/nifti/static/js/main.12aa99fe.js",
+    "static/js/453.64db7db6.chunk.js": "/nifti/static/js/453.64db7db6.chunk.js",
+    "static/media/browser.cjs": "/nifti/static/media/browser.f5b99f7397583be28b7f.cjs",
+    "index.html": "/nifti/index.html",
+    "main.64f88cd4.css.map": "/nifti/static/css/main.64f88cd4.css.map",
+    "main.12aa99fe.js.map": "/nifti/static/js/main.12aa99fe.js.map",
+    "453.64db7db6.chunk.js.map": "/nifti/static/js/453.64db7db6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f88cd4.css",
+    "static/js/main.12aa99fe.js"
+  ]
+}
