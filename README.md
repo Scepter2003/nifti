@@ -2,6 +2,11 @@
 Big Data Analytics:-
 https://shorturl.at/9CA11
 
+https://drive.google.com/file/d/11x74kY0lkd_tzZm4vd4URr-qfFvPNBYy/view?usp=drivesdk
+
+https://docs.google.com/document/d/11wof_8dRQqTJ_52JL2s81AY3cjU5VrPo/edit?usp=drivesdk&ouid=100562968613180218480&rtpof=true&sd=true
+
+
 
 Morden Networking : - https://shorturl.at/ypNJv
 
