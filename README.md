@@ -1,3 +1,10 @@
+
+P2 PRACTICAL
+
+https://acesse.one/ggsihml
+
+https://drive.google.com/drive/folders/1XCmQDuUsoEIr86jFgI9hOmNCMJuoxkNB
+
 shaurya
 https://drive.google.com/file/d/1PC2UlChuEjkQjlcgVhWU7MTuiAHV_HUw/view?usp=drivesdk
 
